@@ -3,7 +3,7 @@ Spotlight alike for windows. (and yes, the naming is from Iron Man's FRIDAY AI)
 
 
 
-This is a prototype. All it can do is run a search on tureng.com (Turkish-English dictionary)
+She is a prototype. All she can do is run a search on tureng.com (Turkish-English dictionary)
 
 1-> "Alt + 1" brings FRIDAY
 
@@ -15,7 +15,7 @@ This is a prototype. All it can do is run a search on tureng.com (Turkish-Englis
 
 If you hit "Alt + 1" while the FRIDAY was visible, she will disappear. That hotkey basically toggles the visibility.
 
-I can, in future, turn this into a full Spotlight copy and even more.
+I can, in future, turn her into a full Spotlight copy and even more.
 
 
 Check out this clip:
