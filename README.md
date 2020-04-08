@@ -1,5 +1,5 @@
 # FRIDAY
-Spotlight alike for windows
+Spotlight alike for windows. (and yes, the naming is from Iron Man's FRIDAY AI)
 
 
 
